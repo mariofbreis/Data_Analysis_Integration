@@ -1,4 +1,4 @@
-# Data_Analysis_Integration
+# Data Analysis Integration
  Project for the Data Analysis and Integration course
 
 This project consisted in the performance of two main tasks:
